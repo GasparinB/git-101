@@ -1,9 +1,11 @@
 body{
     margin: 0;
     font-family: Helvetica;
+    background-color: aqua;
 }
 h1{
     font-weight: 100;
+    color: black;
 }
 #logo{
     height: 80px;
