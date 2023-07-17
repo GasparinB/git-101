@@ -1,12 +1,17 @@
 body{
     margin: 0;
     font-family: Helvetica;
-    background-color: aqua;
+    background-color: black;
 }
 h1{
     font-weight: 100;
-    color: black;
-}
+    color: white;
+  }
+  p{
+    font-weight: 100;
+    color: white;
+
+  }
 #logo{
     height: 80px;
     width: 80px;
@@ -15,5 +20,6 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     height: 100vh
 }
